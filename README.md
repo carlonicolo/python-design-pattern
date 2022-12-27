@@ -15,11 +15,10 @@ Examples of Design patterns in Python.
   * Adapter
   * Composite
   * Bridge  
-  
+
 * **Behavioral Patterns**
   * Observer
   * Visitor
   * Iterator
   * Strategy
   * Chain of resposability
-
